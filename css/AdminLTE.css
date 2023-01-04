@@ -257,7 +257,7 @@ img {
 .bg-purple,
 .bg-maroon,
 .bg-black {
-  color: #f9f9f9 !important;
+  color: #f5b95a !important;
 }
 .bg-gray {
   background-color: #eaeaec !important;
@@ -272,13 +272,13 @@ img {
   background-color: #f39c12 !important;
 }
 .bg-aqua {
-  background-color: #00c0ef !important;
+  background-color: #000000 !important;
 }
 .bg-blue {
   background-color: #0073b7 !important;
 }
 .bg-light-blue {
-  background-color: #3c8dbc !important;
+  background-color: #dbaf37 !important;
 }
 .bg-green {
   background-color: #00a65a !important;
@@ -1331,8 +1331,8 @@ body > .header .logo .icon {
 */
 .box {
   position: relative;
-  background: #ffffff;
-  border-top: 1px solid #444;
+  background: #383737;
+  border-top: 1px solid rgb(247, 244, 244);
   margin-bottom: 20px;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
@@ -2943,6 +2943,7 @@ Component: timeline
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  font-weight: bold;
 }
 .info-box-text {
   text-transform: uppercase;

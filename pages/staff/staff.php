@@ -27,8 +27,8 @@
             <aside class="right-side">
                 <!-- Content Header (Page header) -->
                 <section class="content-header">
-                    <h1>
-                        Staff
+                    <h1 style="color: white;">
+                        STAFF
                     </h1>
                     
                 </section>
