@@ -18,7 +18,7 @@ session_start();
           <div class="col-md-4 col-md-offset-4">
               <div class="panel panel-default">
             <div class="panel-heading" style="text-align:center;">
-                <img src="img/logo.png" style="height:150px;"/>
+                <img src="img/logo1.png" style="height:150px;"/>
               <h3 class="panel-title">
                 <strong>
                     Sign Up Admin

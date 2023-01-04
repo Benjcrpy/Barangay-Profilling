@@ -476,9 +476,9 @@ body > .header .navbar .nav > li > a:hover > .label {
 }
 body > .header .logo {
   float: left;
-  font-size: 13px;
+  font-size: 16px;
   line-height: 50px;
-  text-align: left;
+  text-align: center;
   padding: 0 10px;
   width: 220px;
   font-family: 'Kaushan Script', cursive;
@@ -487,7 +487,7 @@ body > .header .logo {
   display: block;
 }
 body > .header .logo .icon {
-  margin-right: 10px;
+  margin-right: 20px;
 }
 .right-side > .content-header {
   position: relative;
@@ -2734,7 +2734,7 @@ Component: timeline
   background: #444;
 }
 .skin-black .left-side {
-  background: #161414;
+  background: #333;
 }
 .skin-black .sidebar a {
   color: #eee;
