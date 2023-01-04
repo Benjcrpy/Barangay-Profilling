@@ -28,7 +28,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.php"><img alt="Brand" src="../img/logo1.png" style="width:50px; margin-top:-15px; "></a>
+      <a class="navbar-brand" href="index.php"><img alt="Brand" src="../img/logo.png" style="width:50px; margin-top:-15px; "></a>
     </div>
 
 
@@ -62,6 +62,49 @@
 </body>
 
 
+<section class ="index-intro">
+<div class="index-news">
+      <div class = "wrapper">
+ 
+<article>
+    <div class="news-img"> </div>
+    <h3> Covid Vaccine for Barangay 564 Now Available for 60+ </h3>
+    <p>The city government has allocated an initial 8,000 doses of the AstraZeneca vaccine to its residents aged 60 years old and above.</p>
+    <a href="https://web.facebook.com/abscbnNEWS/photos/pcb.10159360013265168/10159360012495168/" class="news-button">Read Now</a>
+</article>
+
+<article>
+    <div class="news-img"> </div>
+    <h3> Barangay 564 Christmas Party </h3>
+    <p> Christmas party of the Barangay 564 was live at December 18 2022. It was a spectacular event that lead to many childeren participate</p>
+    <a href="https://fb.watch/hRfQ5VkXhv/?mibextid=ZbWKwL" class="news-button">Read Now</a>
+</article>
+
+<article>
+    <div class="news-img"> </div>
+    <h3> Barangay Trick or Treat </h3>
+    <p> Announcement!!!
+        for the upcoming Trick and Treat, everybody is allowed to join but only ages 3 - 8 yrs old are Eligible for the Prize. Thank you very much and have a fun party!
+    </p>
+    <a href="https://web.facebook.com/profile.php?id=100069198790144&mibextid=ZbWKwL&_rdc=1&_rdr" class="news-button">Read Now</a> 
+</article>
+
+<article>
+    <div class="news-img"> </div>
+    <h3> Project Of Sk council 2022 Part 3 Distribution</h3>
+    <p>  The Sk Party of Barangay 564, Has Distributed over hundreds of school supply that kids and teenagers will benefit from.Board Games were also distributed</p>
+    <a href="https://web.facebook.com/profile.php?id=100069198790144&mibextid=ZbWKwL&_rdc=1&_rdr" class="news-button">Read Now</a>
+</article>
+
+<article>
+    <div class="news-img"> </div>
+    <h3> Project Of Sk Council 2022 Part 2 Repacking</h3>
+    <p> he Sk Party of Barangay 564, Has Repacked over hundreds of school supply that everybody will benefit from.Board Games were also Added in the pack</p>
+<a href="https://web.facebook.com/profile.php?id=100069198790144&mibextid=ZbWKwL&_rdc=1&_rdr" class="news-button">Read Now</a>
+</article>
+</div>
+</section>
+
 <section class="features">
         <div class="feature-container">
 
@@ -70,7 +113,7 @@
                     <img src="../img/Permit.png"/>
                 </div>
                 <div class="f-text">
-                    <p>Lorem ipsum dolor sit amet.</p>
+                    <p> Get your own Certificate now.</p>
                     <a href="../pages/resident/login.php" class="main-btn">Permit</a>
                 </div>
             </div>
@@ -80,7 +123,7 @@
                     <img src="../img/Blotter.png"/>
                 </div>
                 <div class="f-text">
-                    <p>Lorem ipsum dolor sit amet.</p>
+                    <p>Blotter Request now available.</p>
                     <a href="../pages/resident/login.php" class="main-btn">Blotter</a>
                 </div>
             </div>
@@ -90,57 +133,14 @@
                     <img src="../img/Clearance.png"/>
                 </div>
                 <div class="f-text">
-                    <p>Lorem ipsum dolor sit amet.</p>
+                    <p>Clearance Request made easier</p>
                     <a href="../pages/resident/login.php" class="main-btn">Clearance</a>
                 </div>
             </div>
         </div>
     </section>
 
-    <section class ="index-intro">
-<div class="index-news">
-      <div class = "wrapper">
- 
-<article>
-    <div class="news-link"> </div>
-    <h3> Marcos to PhilHealth: Suspend premium rate hike </h3>
-    <p> President Ferdinand Marcos Jr. has ordered the Philippine Health Insurance Corp. (PhilHealth) to suspend the increase in premium rate to be implemented this year.</p>
-    <a href="https://www.manilatimes.net/2023/01/02/news/marcos-to-philhealth-suspend-premium-rate-hike/1872555" class="news-button">Read Now</a>
-</article>
-
-<article>
-    <div class="news-link"> </div>
-    <h3> Let us move full-steam ahead </h3>
-    <p> PRESIDENT Ferdinand "Bongbong" Marcos Jr. called on Filipinos to move "full-steam ahead" toward growth and prosperity in 2023.
-
-In his first New Year's message as president, Marcos said he joined the entire nation to welcome the new year with hope and optimism.</p>
-    <a href="https://www.manilatimes.net/2023/01/01/news/let-us-move-full-steam-ahead/1872392" class="news-button">Read Now</a>
-</article>
-
-<article>
-    <div class="news-link"> </div>
-    <h3> Airlines mount recovery flights </h3>
-    <p> IT will take at least three days before airlines finish the recovery flights for stranded passengers affected by the power outage that canceled flights to and from Manila on New Year's Day, Transportation Secretary Jaime Bautista said on Monday.</p>
-    <a href="https://www.manilatimes.net/2023/01/03/news/airlines-mount-recovery-flights/1872567" class="news-button">Read Now</a> 
-</article>
-
-<article>
-    <div class="news-link"> </div>
-    <h3> Onion prices remain high despite P250 SRP </h3>
-    <p>  THE retail prices of onions remained high despite the implementation of the P250 suggested retail price (SRP) on Dec. 30, 2022. An official of the Department of Agriculture (DA) warned that traders could face profiteering and manipulation charges.</p>
-    <a href="https://www.manilatimes.net/2023/01/03/news/onion-prices-remain-high-despite-p250-srp/1872495" class="news-button">Read Now</a>
-</article>
-
-<article>
-    <div class="news-link"> </div>
-    <h3> Technical problems delay flights </h3>
-    <p> Technical problems that hit the Air Traffic Management Center delayed flights on the first day of 2023.
-
-The Civil Aviation Authority of the Philippines apologized to affected passengers of domestic and international flights for the inconvenience.</p>
-<a href="https://www.manilatimes.net/2023/01/01/news/technical-problems-delay-flights/1872421" class="news-button">Read Now</a>
-</article>
-</div>
-</section>
+    
 
 <script src="../js/alert.js" type="text/javascript"></script>
 

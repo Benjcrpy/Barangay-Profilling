@@ -3,7 +3,7 @@
    echo  '<header class="header">
             <a href="#" class="logo">
                 <!-- Add the class icon to your logo image or logo icon to add the margining -->
-                <img src="img/logo1.png">
+                Barangay 564 Zone 55
             </a>
             <!-- Header Navbar: style can be found in header.less -->
             <nav class="navbar navbar-static-top" role="navigation">
@@ -15,7 +15,7 @@
                         <!-- User Account: style can be found in dropdown.less -->
                         <li class="dropdown user user-menu">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                                <i class="glyphicon glyphicon-user"></i><span>'.$_SESSION['role'].'<i class="caret"></i></span>
+                                <i class="glyphicon glyphicon-user" style="color:white;"></i><span style="color:white;">'.$_SESSION['role'].'<i class="caret"></i></span>
                             </a>
                             <ul class="dropdown-menu">
                                 <!-- User image -->
@@ -44,7 +44,7 @@
         </header>'; ?>
 
 
-         <div id="editProfileModal" class="modal fade">
+         <div id="editProfileModal" class="modal fade" >
             <form method="post">
               <div class="modal-dialog modal-sm" style="width:300px !important;">
                 <div class="modal-content">

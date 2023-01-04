@@ -97,7 +97,7 @@ body {
   font-family: 'Source Sans Pro', sans-serif;
   -webkit-font-smoothing: antialiased;
   min-height: 100%;
-  background: #f9f9f9;
+  background: #1a1f22;
 }
 a {
   color: #3c8dbc;
@@ -192,7 +192,7 @@ body.fixed .wrapper {
 /* Content */
 .content {
   padding: 20px 15px;
-  background: #f9f9f9;
+  background: #1a1f22;
 }
 /* Utility */
 /* H1 - H6 font */
@@ -481,8 +481,7 @@ body > .header .logo {
   text-align: center;
   padding: 0 10px;
   width: 220px;
-  font-family: 'Kaushan Script', cursive;
-  font-weight: 500;
+  font-weight: bold;
   height: 50px;
   display: block;
 }
@@ -1333,7 +1332,7 @@ body > .header .logo .icon {
 .box {
   position: relative;
   background: #ffffff;
-  border-top: 2px solid #c1c1c1;
+  border-top: 1px solid #444;
   margin-bottom: 20px;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
@@ -2632,7 +2631,7 @@ Component: timeline
 }
 .skin-blue .sidebar-form input[type="text"]:focus,
 .skin-blue .sidebar-form input[type="text"]:focus + .input-group-btn .btn {
-  background-color: #fff;
+  background-color: #1a1f22;
   color: #666;
 }
 .skin-blue .sidebar-form input[type="text"]:focus + .input-group-btn .btn {
@@ -2659,8 +2658,8 @@ Component: timeline
 */
 /* skin-black navbar */
 .skin-black .navbar {
-  background-color: #ffffff;
-  border-bottom: 1px solid #eee;
+  background-color: #1a1f22;
+  border-bottom: 1px solid #1a1f22
 }
 .skin-black .navbar .nav a {
   color: #333333;
@@ -2671,7 +2670,7 @@ Component: timeline
 .skin-black .navbar .nav .open > a,
 .skin-black .navbar .nav .open > a:hover,
 .skin-black .navbar .nav .open > a:focus {
-  background: #ffffff;
+  background: #1a1f22;
   color: #999999;
 }
 .skin-black .navbar .navbar-right > .nav {
@@ -2685,7 +2684,7 @@ Component: timeline
 }
 /* skin-black logo */
 .skin-black .logo {
-  background-color: #333333;
+  background-color: #141413f8;
   color: #f9f9f9;
 }
 .skin-black .logo > a {
@@ -2696,8 +2695,8 @@ Component: timeline
 }
 /* skin-black content header */
 .skin-black .right-side > .content-header {
-  background: transparent;
-  box-shadow: none;
+  background: #1a1f22;
+  box-shadow: #1a1f22;
 }
 /* Skin-red user panel */
 .skin-black .user-panel > .image > img {
@@ -2709,11 +2708,11 @@ Component: timeline
 }
 /* skin-black sidebar */
 .skin-black .sidebar {
-  border-bottom: 1px solid #333;
+  border-bottom: 1px solid #0F172A;
 }
 .skin-black .sidebar > .sidebar-menu > li {
-  border-top: 1px solid #333;
-  border-bottom: 0px solid #444;
+  border-top: 1px solid #0F172A;
+  border-bottom: 0px solid #0F172A;
 }
 .skin-black .sidebar > .sidebar-menu > li:first-of-type {
   border-top: 1px solid #444;
@@ -2734,7 +2733,7 @@ Component: timeline
   background: #444;
 }
 .skin-black .left-side {
-  background: #333;
+  background: #0F172A;
 }
 .skin-black .sidebar a {
   color: #eee;
