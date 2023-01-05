@@ -40,12 +40,12 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.php"><img alt="Brand" src="../img/logo.png" style="width:50px; margin-top:-15px; "></a>
+      <a class="navbar-brand" href="index.php"><img alt="Brand" src="../img/logo1.png" style="width:50px; margin-top:-15px; "></a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-      <ul class="nav navbar-nav">
+      <ul class="nav navbar-nav" style="font-family: 'Poppins', sans-serif;">
         <li class="active"><a href="index.php">Home <span class="sr-only">(current)</span></a></li>
         <li><a href="about.php">About</a></li>
         <li><a href="../login.php">Admin</a></li>
@@ -58,7 +58,7 @@
 
 
 <div class="heading" style="background:url(../images/header-bg-3.png) no-repeat">
-   <h1>about us</h1>
+   <h1 style="color:white;">about us</h1>
 </div>
 
 <div class="new1">
@@ -68,10 +68,10 @@
 <section class="about">
 
    <div class="image">
-      <img src="../images/Brgy.jfif" alt="">
+      <img src="../img/logo1.png" alt="">
    </div>
 
-   <div class="content">
+   <div class="content" style="color: white;">
       <h3>Vission</h3>
       <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure numquam nulla iusto corporis dolor commodi libero, vitae obcaecati optio rerum ab culpa nesciunt, earum mollitia quasi ipsam non. Aliquid, iure.</p>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid rerum, delectus voluptate aliquam quaerat iusto repellendus error nulla ab atque.</p>
@@ -92,12 +92,12 @@
 
 <!-- footer section starts  -->
 
-<section class="footer">
+<section class="footer" style="color:white;">
 
    <div class="box-container">
 
       <div class="box">
-         <h3>Quick links</h3>
+         <h3 style="text-align: center;">Quick links</h3>
          <a href="index.php"> <i class="fas fa-angle-right"></i> Home</a>
          <a href="about.php"> <i class="fas fa-angle-right"></i> About</a>
          <a href="../login.php"> <i class="fas fa-angle-right"></i> Admin</a>
@@ -106,7 +106,7 @@
       </div>
 
       <div class="box">
-         <h3>Extra links</h3>
+         <h3 style="text-align: center;">Extra links</h3>
          <a href="#"> <i class="fas fa-angle-right"></i> ask questions</a>
          <a href="#"> <i class="fas fa-angle-right"></i> about us</a>
          <a href="#"> <i class="fas fa-angle-right"></i> privacy policy</a>
@@ -114,14 +114,14 @@
       </div>
 
       <div class="box">
-         <h3>Contact info</h3>
+         <h3 style="text-align: center;">Contact info</h3>
          <a href="#"> <i class="fas fa-phone"></i> +63912-345-67891</a>
          <a href="#"> <i class="fas fa-envelope"></i> juandelacruz12@gmail.com </a>
          <a href="https://www.google.com/maps/place/564+Barangay+Hall+Manila/@14.6088961,121.0044211,18z/data=!4m13!1m7!3m6!1s0x3397b61e702feaf1:0x51c95967c2b1e5f4!2sBrgy.+564,+Sampaloc,+Manila,+1008+Metro+Manila!3b1!8m2!3d14.6088808!4d121.005376!3m4!1s0x3397b61e73fd20f9:0xc7057a0463938bf5!8m2!3d14.6083739!4d121.0053345"> <i class="fas fa-map"></i> Manila, Philippines </a>
       </div>
 
       <div class="box">
-         <h3>follow us</h3>
+         <h3 style="text-align: center;">follow us</h3>
          <a href="#"> <i class="fab fa-facebook-f"></i> facebook </a>
          <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
          <a href="#"> <i class="fab fa-instagram"></i> instagram </a>
