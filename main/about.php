@@ -19,10 +19,7 @@
     <link href="../css/select2.css" rel="stylesheet" type="text/css" />
     <script src="../js/jquery-1.12.3.js" type="text/javascript"></script>
 
-   <!-- swiper css link  -->
    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
-
-   <!-- font awesome cdn link  -->
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
    <!-- custom css file link  -->
@@ -50,14 +47,14 @@
         <li><a href="about.php">About</a></li>
         <li><a href="../login.php">Admin</a></li>
         <li><a href="../pages/resident/login.php">Resident</a></li>
-        <li><a href="../pages/zone/login.php">Zone Leader</a></li>
+        <li><a href="../pages/zone/login.php">Barangay Officials</a></li>
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
 
 
-<div class="heading" style="background:url(../images/header-bg-3.png) no-repeat">
+<div class="heading" style="background:url(../images/off.png) no-repeat">
    <h1 style="color:white;">about us</h1>
 </div>
 

@@ -38,7 +38,7 @@
         <li ><a href="about.php">About</a></li> 
         <li class= "b"><a href="../login.php">Admin</a></li>
         <li class= "b"><a href="../pages/resident/login.php">Resident</a></li>
-        <li class= "b"><a href="../pages/zone/login.php">Zone Leader</a></li>
+        <li class= "b"><a href="../pages/zone/login.php">Barangay Officials</a></li>
       </ul>
     </div>
   </div>
@@ -72,7 +72,7 @@
 
 <section class="home" id="home">
     <div class="home-text container">
-        <<img src="../img/logo1.png" alt="">
+        <img src="../img/logo1.png" alt="">
         <h1 class="home-title"> Barangay 564 Zone 55 </h1>
         <span class="home-subtitle"> Sampaloc Manila Philippines </span>
     </div>
