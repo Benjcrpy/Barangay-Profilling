@@ -21,7 +21,7 @@ session_start();
                 <img src="../../img/logo1.png" style="height:150px;"/>
               <h3 class="panel-title">
                 <strong>
-                    Barangay Information System
+                    Sign in Barangay Official
                 </strong>
               </h3>
             </div>
@@ -56,7 +56,7 @@ session_start();
             if($numrow_user > 0)
             {
                 while($row = mysqli_fetch_array($user)){
-                  $_SESSION['role'] = "Zone Leader";
+                  $_SESSION['role'] = "Barangay Official";
                   $_SESSION['userid'] = $row['id'];
                   $_SESSION['username'] = $row['username'];
                 }    

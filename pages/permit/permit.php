@@ -406,6 +406,7 @@
                                                         <td>'.$row['businessName'].'</td>
                                                         <td>'.$row['businessAddress'].'</td>
                                                         <td>'.$row['typeOfBusiness'].'</td>
+                                                        
                                                     </tr>
                                                     ';
                                                 }

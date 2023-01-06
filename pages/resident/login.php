@@ -21,7 +21,7 @@ session_start();
                 <img src="../../img/logo1.png" style="height:150px;"/>
               <h3 class="panel-title">
                 <strong>
-                    Barangay Information System
+                    Sign  in Resident
                 </strong>
               </h3>
             </div>

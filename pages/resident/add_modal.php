@@ -74,11 +74,6 @@
                                     </div>
 
                                     <div class="form-group">
-                                        <label class="control-label">IgpitID:</label>
-                                        <input name="txt_igpit" class="form-control input-sm input-size" type="number" placeholder="" min="1" />
-                                    </div>
-
-                                    <div class="form-group">
                                         <label class="control-label">Educational Attainment:</label>
                                         <select name="ddl_eattain" class="form-control input-sm input-size">
                                             <option>No schooling completed</option>
@@ -110,17 +105,6 @@
                                             <option>Deep Well</option>
                                         </select>
                                     </div>
-
-
-                                    <div class="form-group">
-                                        <label class="control-label">Sanitary Toilet:</label>
-                                        <select name="txt_toilet" class="form-control input-sm input-size">
-                                            <option>Water-sealed</option>
-                                            <option>Antipolo</option>
-                                            <option>None</option>
-                                        </select>
-                                    </div>
-
 
                                     <div class="form-group">
                                         <label class="control-label">Remarks:</label>
@@ -203,15 +187,6 @@
                                             <option value="Own Home">Own Home</option>
                                             <option value="Rent">Rent</option>
                                             <option value="Live with Parents/Relatives">Live with Parents/Relatives</option>
-                                        </select>
-                                    </div>
-
-
-                                    <div class="form-group">
-                                        <label class="control-label">Dwelling Type:</label>
-                                        <select name="ddl_dtype" class="form-control input-sm">
-                                            <option value="1st Option">1st Option</option>
-                                            <option value="2nd Option">2nd Option</option>
                                         </select>
                                     </div>
 

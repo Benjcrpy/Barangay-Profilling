@@ -47,7 +47,7 @@
 }
 .blog-section .section-content .title h2 {
     font-size: 40px;
-    background: -webkit-linear-gradient(cyan, white);
+    background: -webkit-linear-gradient(rgb(255, 255, 255), white);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     text-align: center;
@@ -217,6 +217,7 @@
     width: 230px;
     height: 195px;
 }
+
 .f-text{
     width: 225px;
     height: 105px;

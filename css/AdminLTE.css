@@ -97,7 +97,7 @@ body {
   font-family: 'Source Sans Pro', sans-serif;
   -webkit-font-smoothing: antialiased;
   min-height: 100%;
-  background: #1a1f22;
+  background: #000000;
 }
 a {
   color: #3c8dbc;
@@ -2670,11 +2670,11 @@ Component: timeline
 .skin-black .navbar .nav .open > a,
 .skin-black .navbar .nav .open > a:hover,
 .skin-black .navbar .nav .open > a:focus {
-  background: #1a1f22;
+  background: #6e6e6e;
   color: #999999;
 }
 .skin-black .navbar .navbar-right > .nav {
-  margin-right: 10px;
+  margin-right: 5px;
 }
 .skin-black .navbar .sidebar-toggle .icon-bar {
   background: #333333;

@@ -21,7 +21,7 @@ session_start();
                 <img src="img/logo1.png" style="height:150px;"/>
               <h3 class="panel-title">
                 <strong>
-                    Sign Up Admin
+                    Sign in Admin & Staff
                 </strong>
               </h3>
             </div>
