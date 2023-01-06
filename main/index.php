@@ -229,10 +229,10 @@
                 <div class="footer-col">
                     <h4>Extra Links</h4>
                     <ul>
-                        <li><a href="#" style="color: white;">FAQ</a></li>
-                        <li><a href="#" style="color: white;">About Us</a></li>
-                        <li><a href="#" style="color: white;">Privacy Policy</a></li>
-                        <li><a href="#" style="color: white;">Term of Use</a></li>
+                        <li><a href="../main/faq.php" style="color: white;">FAQ</a></li>
+                        <li><a href="../main/about.php" style="color: white;">About Us</a></li>
+                        <li><a href="../main/faq.php"style="color: white;">Privacy Policy</a></li>
+                        <li><a href="../main/faq.php" style="color: white;">Term of Use</a></li>
                     </ul>
                 </div>
                 <div class="footer-col">
@@ -247,9 +247,9 @@
                     <h4>Follow Us</h4>
                     <div class="social-links">
                         <a href="https://www.facebook.com/groups/3247616751965766/" style="color: white;"><i class="fab fa-facebook"></i></a>
-                        <a href="#" style="color: white;"><i class="fab fa-twitter"></i></a>
-                        <a href="#" style="color: white;"><i class="fab fa-instagram"></i></a>
-                        <a href="#" style="color: white;"><i class="fab fa-linkedin"></i></a>
+                        <a href="https://twitter.com/?lang=en" style="color: white;"><i class="fab fa-twitter"></i></a>
+                        <a href="https://www.instagram.com/" style="color: white;"><i class="fab fa-instagram"></i></a>
+                        <a href="https://www.linkedin.com/login" style="color: white;"><i class="fab fa-linkedin"></i></a>
                     </div>
                 </div>
             </div>
