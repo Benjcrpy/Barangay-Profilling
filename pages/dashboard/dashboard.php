@@ -44,8 +44,8 @@
                                     <a href="../household/household.php"><span class="info-box-icon bg-aqua"><i class="fa fa-home"></i></span></a>
 
                                     <div class="info-box-content">
-                                      <span class="info-box-text">Total Household</span>
-                                      <span class="info-box-number">
+                                      <span class="info-box-text" style="color: black;">Total Household</span>
+                                      <span class="info-box-number" style="color: black;">
                                         <?php
                                             $q = mysqli_query($con,"SELECT * from tblhousehold");
                                             $num_rows = mysqli_num_rows($q);
@@ -63,8 +63,8 @@
                                     <a href="../resident/resident.php"><span class="info-box-icon bg-aqua"><i class="fa fa-users"></i></span></a>
 
                                     <div class="info-box-content">
-                                      <span class="info-box-text">Total Resident</span>
-                                      <span class="info-box-number">
+                                      <span class="info-box-text" style="color: black;">Total Resident</span>
+                                      <span class="info-box-number" style="color: black;">
                                         <?php
                                             $q = mysqli_query($con,"SELECT * from tblresident");
                                             $num_rows = mysqli_num_rows($q);
@@ -82,8 +82,8 @@
                                     <a href="../clearance/clearance.php"><span class="info-box-icon bg-aqua"><i class="fa fa-file"></i></span></a>
 
                                     <div class="info-box-content">
-                                      <span class="info-box-text">Total Clearance</span>
-                                      <span class="info-box-number">
+                                      <span class="info-box-text" style="color: black;">Total Clearance</span>
+                                      <span class="info-box-number" style="color: black;">
                                         <?php
                                             $q = mysqli_query($con,"SELECT * from tblclearance where status = 'Approved' ");
                                             $num_rows = mysqli_num_rows($q);
@@ -101,8 +101,8 @@
                                     <a href="../permit/permit.php"><span class="info-box-icon bg-aqua"><i class="fa fa-file"></i></span></a>
 
                                     <div class="info-box-content">
-                                      <span class="info-box-text">Total Permit</span>
-                                      <span class="info-box-number">
+                                      <span class="info-box-text" style="color: black;">Total Permit</span>
+                                      <span class="info-box-number" style="color: black;">
                                         <?php
                                             $q = mysqli_query($con,"SELECT * from tblpermit where status = 'Approved' ");
                                             $num_rows = mysqli_num_rows($q);
@@ -120,8 +120,8 @@
                                     <a href="../blotter/blotter.php"><span class="info-box-icon bg-aqua"><i class="fa fa-user"></i></span></a>
 
                                     <div class="info-box-content">
-                                      <span class="info-box-text">Total Blotter</span>
-                                      <span class="info-box-number">
+                                      <span class="info-box-text" style="color: black;">Total Blotter</span>
+                                      <span class="info-box-number" style="color: black;">
                                         <?php
                                             $q = mysqli_query($con,"SELECT * from tblblotter");
                                             $num_rows = mysqli_num_rows($q);

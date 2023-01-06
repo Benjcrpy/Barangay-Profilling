@@ -35,7 +35,7 @@
                             </li>
                             <li>
                                 <a href="../zone/zone.php">
-                                    <i class="fa fa-user"></i> <span>Zone Leader</span>
+                                    <i class="fa fa-user"></i> <span>Barangay Official</span>
                                 </a>
                             </li>
                             <li>
@@ -81,7 +81,7 @@
                             
                     </ul>';
                     }
-                    elseif($_SESSION['role'] == "Zone Leader"){
+                    elseif($_SESSION['role'] == "Barangay Official"){
                         echo '
                         <ul class="sidebar-menu">
                             <li>
@@ -93,8 +93,7 @@
                                 <a href="../clearance/clearance.php">
                                     <i class="fa fa-file"></i> <span>Clearance</span>
                                 </a>
-                            </li>
-                        </ul>';
+                            </li>';
                     }
                     elseif(isset($_SESSION['staff'])){
                         echo '
@@ -116,7 +115,7 @@
                             </li>
                             <li>
                                 <a href="../zone/zone.php">
-                                    <i class="fa fa-user"></i> <span>Zone Leader</span>
+                                    <i class="fa fa-user"></i> <span>Barangay Official</span>
                                 </a>
                             </li>
                             <li>
