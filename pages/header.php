@@ -3,7 +3,7 @@
    echo  '<header class="header">
             <a href="#" class="logo">
                 <!-- Add the class icon to your logo image or logo icon to add the margining -->
-                <img src="../img/logo1.png" width="50" height="50" >
+                Barangay 564 Zone 55
             </a>
             <!-- Header Navbar: style can be found in header.less -->
             <nav class="navbar navbar-static-top" role="navigation">

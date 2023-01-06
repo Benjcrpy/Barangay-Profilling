@@ -229,7 +229,7 @@
                 <div class="footer-col">
                     <h4>Extra Links</h4>
                     <ul>
-                        <li><a href="#" style="color: white;">Ask Question</a></li>
+                        <li><a href="#" style="color: white;">FAQ</a></li>
                         <li><a href="#" style="color: white;">About Us</a></li>
                         <li><a href="#" style="color: white;">Privacy Policy</a></li>
                         <li><a href="#" style="color: white;">Term of Use</a></li>

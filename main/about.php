@@ -30,7 +30,7 @@
 <nav class="navbar navbar-inverse" style="border-radius:0px;">
   <div class="container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->
-    <div class="navbar-header">
+    <div class="navbar-header"> 
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
         <span class="sr-only">Toggle navigation</span>
         <span class="icon-bar"></span>
@@ -107,7 +107,7 @@
                 <div class="footer-col">
                     <h4>Extra Links</h4>
                     <ul>
-                        <li><a href="#" style="color: white;">Ask Question</a></li>
+                        <li><a href="../main/faq.php" style="color: white;">FAQ</a></li>
                         <li><a href="#" style="color: white;">About Us</a></li>
                         <li><a href="#" style="color: white;">Privacy Policy</a></li>
                         <li><a href="#" style="color: white;">Term of Use</a></li>
