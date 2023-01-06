@@ -212,12 +212,12 @@ h6,
 }
 /* Page Header */
 .page-header {
-  margin: 10px 0 20px 0;
-  font-size: 22px;
+  margin: 10px 0 30px 0;
+  font-size: 25px;
 }
 .page-header > small {
   color: #666;
-  display: block;
+  display: flex;
   margin-top: 5px;
 }
 /* All images should be responsive */

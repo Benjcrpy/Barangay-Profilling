@@ -9,7 +9,7 @@
     <link href="../css/ionicons.min.css" rel="stylesheet" type="text/css" />
     <link href="../js/morris/morris-0.4.3.min.css" rel="stylesheet" type="text/css" />
     <link href="../css/AdminLTE.css" rel="stylesheet" type="text/css" />
-
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" />
     <link href="../css/datatables/dataTables.bootstrap.css" rel="stylesheet" type="text/css" />
     <link href="../css/select2.css" rel="stylesheet" type="text/css" />
     <script src="../js/jquery-1.12.3.js" type="text/javascript"></script>
@@ -72,6 +72,7 @@
 
 <section class="home" id="home">
     <div class="home-text container">
+        <<img src="../img/logo1.png" alt="">
         <h1 class="home-title"> Barangay 564 Zone 55 </h1>
         <span class="home-subtitle"> Sampaloc Manila Philippines </span>
     </div>
@@ -220,44 +221,47 @@
         </div>
     </section>
 
-<section class="footer" style="color:white;">
-
-   <div class="box-container">
-
-      <div class="box">
-         <h3 style="text-align: center;">Quick links</h3>
-         <a href="index.php"> <i class="fas fa-angle-right"></i> Home</a>
-         <a href="about.php"> <i class="fas fa-angle-right"></i> About</a>
-         <a href="../login.php"> <i class="fas fa-angle-right"></i> Admin</a>
-         <a href="../pages/resident/login.php"> <i class="fas fa-angle-right"></i> Resident</a>
-         <a href="../pages/zone/login.php"> <i class="fas fa-angle-right"></i> Zone Leader</a>
-      </div>
-
-      <div class="box">
-         <h3 style="text-align: center;">Extra links</h3>
-         <a href="#"> <i class="fas fa-angle-right"></i> ask questions</a>
-         <a href="#"> <i class="fas fa-angle-right"></i> about us</a>
-         <a href="#"> <i class="fas fa-angle-right"></i> privacy policy</a>
-         <a href="#"> <i class="fas fa-angle-right"></i> terms of use</a>
-      </div>
-
-      <div class="box">
-         <h3 style="text-align: center;">Contact info</h3>
-         <a href="#"> <i class="fas fa-phone"></i> +63912-345-67891</a>
-         <a href="#"> <i class="fas fa-envelope"></i> juandelacruz12@gmail.com </a>
-         <a href="https://www.google.com/maps/place/564+Barangay+Hall+Manila/@14.6088961,121.0044211,18z/data=!4m13!1m7!3m6!1s0x3397b61e702feaf1:0x51c95967c2b1e5f4!2sBrgy.+564,+Sampaloc,+Manila,+1008+Metro+Manila!3b1!8m2!3d14.6088808!4d121.005376!3m4!1s0x3397b61e73fd20f9:0xc7057a0463938bf5!8m2!3d14.6083739!4d121.0053345"> <i class="fas fa-map"></i> Manila, Philippines </a>
-      </div>
-
-      <div class="box">
-         <h3 style="text-align: center;">follow us</h3>
-         <a href="#"> <i class="fab fa-facebook-f"></i> facebook </a>
-         <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
-         <a href="#"> <i class="fab fa-instagram"></i> instagram </a>
-         <a href="#"> <i class="fab fa-linkedin"></i> linkedin </a>
-      </div>
-   </div>
-
-</section>
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <<div class="footer-col">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="#" style="color: white;">Home</a></li>
+                        <li><a href="#" style="color: white;">About</a></li>
+                        <li><a href="#" style="color: white;">Admin</a></li>
+                        <li><a href="#" style="color: white;">Zone Leader</a></li>
+                    </ul>
+                </div>
+                <<div class="footer-col">
+                    <h4>Extra Links</h4>
+                    <ul>
+                        <li><a href="#" style="color: white;">Ask Question</a></li>
+                        <li><a href="#" style="color: white;">About Us</a></li>
+                        <li><a href="#" style="color: white;">Privacy Policy</a></li>
+                        <li><a href="#" style="color: white;">Term of Use</a></li>
+                    </ul>
+                </div>
+                <<div class="footer-col">
+                    <h4>Contact Info</h4>
+                    <ul>
+                        <li><a href="#" style="color: white;">+63912-345-67891</a></li>
+                        <li><a href="#" style="color: white;">JuanDelaCruz@gmail.com</a></li>
+                        <li><a href="#" style="color: white;">Manila, Philippines</a></li>
+                    </ul>
+                </div>
+                <<div class="footer-col">
+                    <h4>Follow Us</h4>
+                    <div class="social-links">
+                        <a href="#" style="color: white;"><i class="fab fa-facebook"></i></a>
+                        <a href="#" style="color: white;"><i class="fab fa-twitter"></i></a>
+                        <a href="#" style="color: white;"><i class="fab fa-instagram"></i></a>
+                        <a href="#" style="color: white;"><i class="fab fa-linkedin"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
 
 </body>
 <script src="../js/alert.js" type="text/javascript"></script>
