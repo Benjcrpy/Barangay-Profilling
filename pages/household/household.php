@@ -1,3 +1,4 @@
+<?php error_reporting(0); ?> 
 <!DOCTYPE html>
 <html>
 
@@ -103,13 +104,13 @@
                                                 {
                                                     echo '
                                                     <tr>
-                                                        <td><a href="../resident/resident.php?resident='.$row['householdno'].'">'.$row['householdno'].'</a></td>
+                                                        <td><a hrent/residenf="../residet.php?resident='.$row['householdno'].'">'.$row['householdno'].'</a></td>
                                                         <td>'.$row['hzone'].'</td>
                                                         <td>'.$row['totalhousehold'].'</td>
                                                         <td>'.$row['hname'].'</td>
                                                         <td><button class="btn btn-primary btn-sm" data-target="#editModal'.$row['hid'].'" data-toggle="modal"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Edit</button></td>
                                                     </tr>
-                                                    ';
+                                                    ';  
 
                                                     include "edit_modal.php";
                                                 }

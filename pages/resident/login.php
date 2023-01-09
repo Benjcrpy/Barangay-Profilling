@@ -6,6 +6,7 @@ session_start();
     <head>
         <meta charset="UTF-8">
         <title>Barangay Information System</title>
+        <link rel="icon" type="image/x-icon" href="../img/icon.png">
         <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
         <!-- bootstrap 3.0.2 -->
         <link href="../../css/bootstrap.min.css" rel="stylesheet" type="text/css" />

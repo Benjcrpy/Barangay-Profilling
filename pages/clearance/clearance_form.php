@@ -29,7 +29,7 @@
         <div class="col-xs-12 col-sm-6 col-md-8" style="" >
             <div style=" background: black;" >
                 <div class="col-xs-4 col-sm-6 col-md-3" style="background: white; margin-right:10px; border: 2px solid black;">
-                    <center><image src="../../img/logo.png" style="width:90%;height:164px;"/></center>
+                    <center><image src="../../img/logo1.png" style="width:90%;height:164px;"/></center>
                     <div style="margin-top:20px; text-align: center; word-wrap: break-word;">
                         <?php
                             $qry = mysqli_query($con,"SELECT * from tblofficial");

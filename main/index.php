@@ -2,6 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Barangay Information System</title>
+    <link rel="icon" type="image/x-icon" href="../img/icon.png">
     <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
     <link href="../css/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <link href="../css/homepage.css" rel="stylesheet" type="text/css" />

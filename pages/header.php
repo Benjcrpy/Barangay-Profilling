@@ -70,7 +70,7 @@
                                     </div>';
                             } 
                         }
-                        elseif($_SESSION['role'] == "Zone Leader"){
+                        elseif($_SESSION['role'] == "Official"){
                             $user = mysqli_query($con,"SELECT * from tblzone where id = '".$_SESSION['userid']."' ");
                             while($row = mysqli_fetch_array($user)){
                                 echo '
