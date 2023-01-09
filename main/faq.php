@@ -250,7 +250,7 @@ You have the right to request access to the personal information we collect from
     
     <h4> I Agree to the <span>Terms of Privacy Policy</span> And  i read the privacy notice. </h4>
     <div class="button">
-      <button href="../main/index.php" class="btn red-btn">Accept</button>
+      <button onclick="document.location='../main/index.php'" class="btn red-btn">Accept</button>
       <button class="btn gray-btn">Decline</button>
     </div>
   </div>
@@ -326,7 +326,7 @@ You have the right to request access to the personal information we collect from
 
 <h4> I Agree to the <span>Terms of Privacy Policy</span> And  i read the privacy notice. </h4>
     <div class="button1">
-      <button class="btn red-btn1">Accept</button>
+      <button onclick="document.location='../main/index.php'" class="btn red-btn1">Accept</button>
       <button class="btn gray-btn1">Decline</button>
     </div>
 
