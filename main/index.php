@@ -199,7 +199,7 @@
                 </div>
                 <div class="f-text">
                     <p>Blotter Request now available.</p>
-                    <a href="../pages/resident/login.php" class="main-btn">Blotter</a>
+                    <a href="../login.php" class="main-btn">Blotter</a>
                 </div>
             </div>
 
