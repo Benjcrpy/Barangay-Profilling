@@ -2,6 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Barangay Information System</title>
+    <link rel="icon" type="image/x-icon" href="../img/icon.png">
     <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
     <link href="../css/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <link href="../css/homepage.css" rel="stylesheet" type="text/css" />
@@ -38,7 +39,7 @@
         <li ><a href="about.php">About</a></li> 
         <li class= "b"><a href="../login.php">Admin</a></li>
         <li class= "b"><a href="../pages/resident/login.php">Resident</a></li>
-        <li class= "b"><a href="../pages/zone/login.php">Zone Leader</a></li>
+        <li class= "b"><a href="../pages/zone/login.php">Barangay Officials</a></li>
       </ul>
     </div>
   </div>
@@ -51,28 +52,22 @@
     <marquee  direction="left" onmouseover="this.stop()" onmouseout="this.start()">
         <a href="#" class="breaking-news">
             <p class="bntime"> Jan 6, 2023 </p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tempus, neque eu luctus bibendum, 
-            dui lacus mattis nibh, facilisis pulvinar dolor ante in nisi. Ut at pretium mi. Phasellus rutrum urna 
-            eros, eget aliquet turpis molestie eget.
+            All ages above 10 years old are required to take the manila ID registration this January 10, 2023. Please approach the barangay officials at the barangay hall.
         </a>
         <a href="#" class="breaking-news">
             <p class="bntime"> Jan 6, 2023 </p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tempus, neque eu luctus bibendum, 
-            dui lacus mattis nibh, facilisis pulvinar dolor ante in nisi. Ut at pretium mi. Phasellus rutrum urna 
-            eros, eget aliquet turpis molestie eget.
+            All ages above 10 years old are required to take the manila ID registration this January 10, 2023. Please approach the barangay officials at the barangay hall.
         </a>
         <a href="#" class="breaking-news">
             <p class="bntime"> Jan 6, 2023 </p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tempus, neque eu luctus bibendum, 
-            dui lacus mattis nibh, facilisis pulvinar dolor ante in nisi. Ut at pretium mi. Phasellus rutrum urna 
-            eros, eget aliquet turpis molestie eget.
+            All ages above 10 years old are required to take the manila ID registration this January 10, 2023. Please approach the barangay officials at the barangay hall.
         </a>
     </marquee>
 </div>
 
 <section class="home" id="home">
     <div class="home-text container">
-        <<img src="../img/logo1.png" alt="">
+        <img src="../img/logo1.png" alt="">
         <h1 class="home-title"> Barangay 564 Zone 55 </h1>
         <span class="home-subtitle"> Sampaloc Manila Philippines </span>
     </div>
@@ -111,7 +106,7 @@
                     </p>
                 </div>
                 <div class="blog-view">
-                    <a href="" class="button">Read More Here</a>
+                    <a href="https://fb.watch/hRfQ5VkXhv/?mibextid=ZbWKwL" class="button">Read More Here</a>
                 </div>
                
             </div>
@@ -127,7 +122,7 @@
                     </p>
                 </div>
                 <div class="blog-view">
-                    <a href="" class="button">Read More Here</a>
+                    <a href="https://web.facebook.com/profile.php?id=100069198790144&mibextid=ZbWKwL&_rdc=1&_rdr" class="button">Read More Here</a>
                 </div>
                 
             </div>
@@ -142,7 +137,7 @@
                     </p>
                 </div>
                 <div class="blog-view">
-                    <a href="" class="button">Read More Here</a>
+                    <a href="https://web.facebook.com/profile.php?id=100069198790144&mibextid=ZbWKwL&_rdc=1&_rdr" class="button">Read More Here</a>
                 </div>
                 
             </div>
@@ -156,7 +151,7 @@
                     </p>
                 </div>
                 <div class="blog-view">
-                    <a href="" class="button">Read More Here</a>
+                    <a href="https://web.facebook.com/profile.php?id=100069198790144&mibextid=ZbWKwL&_rdc=1&_rdr" class="button">Read More Here</a>
                 </div>
                 
             </div>
@@ -165,14 +160,13 @@
                     <img src="../img/city.png" alt="">
                 </div>
                 <div class="article">
-                    <h4>Title</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tempus, neque eu luctus bibendum, 
-                        dui lacus mattis nibh, facilisis pulvinar dolor ante in nisi. Ut at pretium mi. Phasellus rutrum urna 
-                        eros, eget aliquet turpis molestie eget.
+                    <h4>MANILA GO ID NOW AVAILABLE</h4>
+                    <p>Kuha na kayo ng Manila Resident's I.D!<br>
+<br>The purpose of the activity is to provide identification for Manila's constituents. And also for future benefits of crediting allowances for Senior Citizens, Persons with disabilities (PWD), and students.</br>
                     </p>
                 </div>
                 <div class="blog-view">
-                    <a href="" class="button">Read More Here</a>
+                    <a href="https://www.facebook.com/brgy752/photos/a.688669708520142/1027859391267837/?type=3" class="button">Read More Here</a>
                 </div>
             </div>
         </div>
@@ -191,11 +185,11 @@
         <div class="feature-container">
             <div class="feature-box">
                 <div class="f-img">
-                    <img src="../img/Permit.png"/>
+                    <img src="../img/certsy.png"/>
                 </div>
                 <div class="f-text">
                     <p> Get your own Certificate now.</p>
-                    <a href="../pages/resident/login.php" class="main-btn">Permit</a>
+                    <a href="../pages/resident/login.php" class="main-btn">Certificate</a>
                 </div>
             </div>
 
@@ -205,7 +199,7 @@
                 </div>
                 <div class="f-text">
                     <p>Blotter Request now available.</p>
-                    <a href="../pages/resident/login.php" class="main-btn">Blotter</a>
+                    <a href="../login.php" class="main-btn">Blotter</a>
                 </div>
             </div>
 
@@ -224,39 +218,39 @@
     <footer class="footer">
         <div class="container">
             <div class="row">
-                <<div class="footer-col">
+                <div class="footer-col">
                     <h4>Quick Links</h4>
                     <ul>
-                        <li><a href="#" style="color: white;">Home</a></li>
-                        <li><a href="#" style="color: white;">About</a></li>
-                        <li><a href="#" style="color: white;">Admin</a></li>
-                        <li><a href="#" style="color: white;">Zone Leader</a></li>
+                        <li><a href="../index.php" style="color: white;">Home</a></li>
+                        <li><a href="../main/about.php" style="color: white;">About</a></li>
+                        <li><a href="../login.php" style="color: white;">Admin</a></li>
+                        <li><a href="../pages/zone/login.php" style="color: white;">Barangay Official</a></li>
                     </ul>
                 </div>
-                <<div class="footer-col">
+                <div class="footer-col">
                     <h4>Extra Links</h4>
                     <ul>
-                        <li><a href="#" style="color: white;">Ask Question</a></li>
-                        <li><a href="#" style="color: white;">About Us</a></li>
-                        <li><a href="#" style="color: white;">Privacy Policy</a></li>
-                        <li><a href="#" style="color: white;">Term of Use</a></li>
+                        <li><a href="../main/faq.php" style="color: white;">FAQ</a></li>
+                        <li><a href="../main/about.php" style="color: white;">About Us</a></li>
+                        <li><a href="../main/faq.php"style="color: white;">Privacy Policy</a></li>
+                        <li><a href="../main/faq.php" style="color: white;">Term of Use</a></li>
                     </ul>
                 </div>
-                <<div class="footer-col">
+                <div class="footer-col">
                     <h4>Contact Info</h4>
                     <ul>
                         <li><a href="#" style="color: white;">+63912-345-67891</a></li>
                         <li><a href="#" style="color: white;">JuanDelaCruz@gmail.com</a></li>
-                        <li><a href="#" style="color: white;">Manila, Philippines</a></li>
+                        <li><a href="https://www.google.com/maps/dir/14.6101156,121.0043399/14.6080318,121.0070779/@14.6090986,121.0048615,18.17z/data=!4m2!4m1!3e2" style="color: white;">Manila, Philippines</a></li>
                     </ul>
                 </div>
-                <<div class="footer-col">
+                <div class="footer-col">
                     <h4>Follow Us</h4>
                     <div class="social-links">
-                        <a href="#" style="color: white;"><i class="fab fa-facebook"></i></a>
-                        <a href="#" style="color: white;"><i class="fab fa-twitter"></i></a>
-                        <a href="#" style="color: white;"><i class="fab fa-instagram"></i></a>
-                        <a href="#" style="color: white;"><i class="fab fa-linkedin"></i></a>
+                        <a href="https://www.facebook.com/groups/3247616751965766/" style="color: white;"><i class="fab fa-facebook"></i></a>
+                        <a href="https://twitter.com/?lang=en" style="color: white;"><i class="fab fa-twitter"></i></a>
+                        <a href="https://www.instagram.com/" style="color: white;"><i class="fab fa-instagram"></i></a>
+                        <a href="https://www.linkedin.com/login" style="color: white;"><i class="fab fa-linkedin"></i></a>
                     </div>
                 </div>
             </div>

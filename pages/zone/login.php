@@ -6,6 +6,7 @@ session_start();
     <head>
         <meta charset="UTF-8">
         <title>Barangay Information System</title>
+        <link rel="icon" type="image/x-icon" href="../img/icon.png">
         <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
         <!-- bootstrap 3.0.2 -->
         <link href="../../css/bootstrap.min.css" rel="stylesheet" type="text/css" />
@@ -21,7 +22,7 @@ session_start();
                 <img src="../../img/logo1.png" style="height:150px;"/>
               <h3 class="panel-title">
                 <strong>
-                    Barangay Information System
+                    Sign in Barangay Official
                 </strong>
               </h3>
             </div>
@@ -56,7 +57,7 @@ session_start();
             if($numrow_user > 0)
             {
                 while($row = mysqli_fetch_array($user)){
-                  $_SESSION['role'] = "Zone Leader";
+                  $_SESSION['role'] = "Barangay Official";
                   $_SESSION['userid'] = $row['id'];
                   $_SESSION['username'] = $row['username'];
                 }    

@@ -393,7 +393,7 @@ img {
 /* Change the color of the striped tables */
 .table-striped > tbody > tr:nth-child(odd) > td,
 .table-striped > tbody > tr:nth-child(odd) > th {
-  background-color: #f3f4f5;
+  background-color: #383737;
 }
 /* .text-center in tables */
 table.text-center td,
@@ -1332,7 +1332,7 @@ body > .header .logo .icon {
 .box {
   position: relative;
   background: #383737;
-  border-top: 1px solid rgb(247, 244, 244);
+  border-top: 1px solid #ebc81c;
   margin-bottom: 20px;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
@@ -2659,7 +2659,7 @@ Component: timeline
 /* skin-black navbar */
 .skin-black .navbar {
   background-color: #1a1f22;
-  border-bottom: 1px solid #1a1f22
+  border-bottom: 1px solid #ebc81c
 }
 .skin-black .navbar .nav a {
   color: #333333;
@@ -2670,11 +2670,11 @@ Component: timeline
 .skin-black .navbar .nav .open > a,
 .skin-black .navbar .nav .open > a:hover,
 .skin-black .navbar .nav .open > a:focus {
-  background: #1a1f22;
+  background: #6e6e6e;
   color: #999999;
 }
 .skin-black .navbar .navbar-right > .nav {
-  margin-right: 10px;
+  margin-right: 5px;
 }
 .skin-black .navbar .sidebar-toggle .icon-bar {
   background: #333333;

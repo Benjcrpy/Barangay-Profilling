@@ -220,7 +220,7 @@
 
                     <?php
                     }
-                    elseif($_SESSION['role'] == "Zone Leader")
+                    elseif($_SESSION['role'] == "Official")
                     {
                     ?>
 
@@ -406,6 +406,7 @@
                                                         <td>'.$row['businessName'].'</td>
                                                         <td>'.$row['businessAddress'].'</td>
                                                         <td>'.$row['typeOfBusiness'].'</td>
+                                                        
                                                     </tr>
                                                     ';
                                                 }
