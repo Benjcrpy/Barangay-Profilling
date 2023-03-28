@@ -35,11 +35,8 @@
                                 </div>
                                 <div class="form-group">
                                     <label>Type of Business:</label>
-                                    <select name="ddl_tob" class="form-control input-sm">
-                                        <option selected="" disabled="">-- Select Type of Business -- </option>
-                                        <option value="Option 1">Option 1</option>
-                                        <option value="Option 2">Option 2</option>
-                                    </select>                                    
+                                    <input name="ddl_tob" class="form-control input-sm" type="text" placeholder="Type of Business">
+                                    </input>                                    
                                 </div>
                                 <div class="form-group">
                                     <label>OR Number:</label>

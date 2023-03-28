@@ -26,6 +26,7 @@
                                         </div>
                                     </div>
 
+
                                     <div class="form-group">
                                         <label class="control-label">Birthdate:</label>
                                         <input name="txt_bdate" class="form-control input-sm input-size" type="date" placeholder="Birthdate"/>
