@@ -18,6 +18,7 @@
                                 <div class="form-group">
                                     <label>Resident:</label>
                                     <select name="ddl_resident" class="select2 form-control input-sm" style="width:100%" font color = "black">
+                                    <select name="ddl_resident" class="select2 form-control input-sm" style="width:100%">
                                         <option selected="" disabled="">-- Select Resident -- </option>
                                         <?php
                                             $squery = mysqli_query($con,"SELECT r.id,r.lname,r.fname,r.mname from tblresident r where ((r.id not in (select personToComplain from tblblotter)) or (r.id in (select personToComplain from tblblotter where sStatus = 'Solved')) ) and lengthofstay >= 6");
