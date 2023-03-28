@@ -17,7 +17,6 @@
                                 </div>
                                 <div class="form-group">
                                     <label>Resident:</label>
-                                    <select name="ddl_resident" class="select2 form-control input-sm" style="width:100%" font color = "black">
                                     <select name="ddl_resident" class="select2 form-control input-sm" style="width:100%">
                                         <option selected="" disabled="">-- Select Resident -- </option>
                                         <?php
