@@ -73,7 +73,8 @@ session_start();
             elseif($numrow_zone > 0)
             {
                 while($row = mysqli_fetch_array($zone)){
-                  $_SESSION['role'] = "Zone Leader";
+                  $_SESSION['role'] = $row['username'];
+                  $_SESSION['zone'] = "Brangay Officials";
                   $_SESSION['userid'] = $row['id'];
                   $_SESSION['username'] = $row['username'];
                 }    
