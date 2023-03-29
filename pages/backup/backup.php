@@ -9,7 +9,7 @@
         ?>
         <?php include('../header.php'); ?>
 
-        <div class="wrapper row-offcanvas row-offcanvas-left">
+        <div class="wrapper row-offcanvas row-offcanvas-left"> 
             <!-- Left side column. contains the logo and sidebar -->
             <?php include('../sidebar-left.php'); ?>
 
