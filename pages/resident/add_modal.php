@@ -37,7 +37,15 @@
                                         <input name="txt_age" class="form-control input-sm input-size" type="number" placeholder="Age"/>
                                     </div> -->
 
+                                    <div class="form-group">
+                                        <label class="control-label">Barangay</label>
+                                        <input disabled name="txt_brgy" class="form-control input-sm input-size" type="number" value="564"/>
+                                    </div>
 
+                                    <div class="form-group">
+                                        <label class="control-label">Zone</label>
+                                        <input disabled name="txt_zone" class="form-control input-sm input-size" type="number" value = "55"/>
+                                    </div>
 
                                     <div class="form-group">
                                         <label class="control-label">Household #:</label>

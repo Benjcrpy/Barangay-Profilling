@@ -36,6 +36,15 @@
                             <input name="txt_edit_bdate" class="form-control input-sm" type="date" value="'.$erow['bdate'].'"/> 
                         </div>
 
+                        <div class="form-group">
+                            <label class="control-label">Barangay</label>
+                            <input name="txt_edit_brgy" class="form-control input-sm" type="number" value="564"'.$erow['barangay'].'"/>
+                        </div>
+
+                        <div class="form-group">
+                            <label class="control-label">Zone</label>
+                            <input name="txt_edit_zone" class="form-control input-sm" type="number" value="55"'.$erow['zone'].'"/>
+                        </div>
 
                         <div class="form-group">
                             <label class="control-label">Household #:</label>
