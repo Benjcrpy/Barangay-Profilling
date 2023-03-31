@@ -387,6 +387,7 @@
                                             <option value="NBI Clearance">NBI Clearance</option>
                                             <option value="Passport">Passport</option>
                                             <option value="Philhealth">Philhealth</option>
+                                            <option value="Postal ID">Postal ID</option>
                                             <option value="TIN ID">TIN ID</option>
                                             <option value="National ID">National ID</option>
                                             <option value="PRC ID">PRC ID</option>
