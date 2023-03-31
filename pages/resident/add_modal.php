@@ -396,6 +396,11 @@
                                     </div>
 
                                     <div class="form-group">
+                                        <label class="control-label">Valid ID Number</label>
+                                        <input name="txt_igpit" class="form-control input-sm" type="number" placeholder="Valid ID Number"/>
+                                    </div>
+
+                                    <div class="form-group">
                                         <label class="control-label">House Ownership Status:</label>
                                         <select name="ddl_hos" class="form-control input-sm">
                                             <option value="Own Home">Own Home</option>

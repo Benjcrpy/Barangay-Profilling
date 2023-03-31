@@ -381,7 +381,7 @@
                         <div class="form-group">
                             <label class="control-label">Type of Valid ID:</label>
                             <select name="txt_edit_phno" class="form-control input-sm">
-                            <option value="'.$erow['philhealthNo'].'" selected>'.$erow['philhealthNo'].'</option>
+                            <option value="'.$erow['IDType'].'" selected>'.$erow['IDType'].'</option>
                                             <option value="UMID">UMID</option>
                                             <option value="Driver license">Driver license</option>
                                             <option value="NBI Clearance">NBI Clearance</option>
@@ -393,7 +393,11 @@
                                             <option value="Voters ID">Voters ID</option>
                                         </select>
                         </div>
-
+                        
+                        <div class="form-group">
+                            <label class="control-label">Valid ID Number</label>
+                            <input name="txt_edit_igpit" class="form-control input-sm" type="number" value="'.$erow['ValIDnum'].'"/>
+                        </div>
 
                         <div class="form-group">
                             <label class="control-label">House Ownership Status:</label>
