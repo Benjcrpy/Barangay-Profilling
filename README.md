@@ -7,5 +7,7 @@ import the DB_Barangay on Mysql and create a new folder for the db_barangay
 
 Run the localhost.
 
+file:///C:/Users/admin/Downloads/tit-removebg-preview.svg
+
 
 
